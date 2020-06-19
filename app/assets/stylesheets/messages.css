@@ -42,13 +42,13 @@
   padding: 20px 0 40px;
 }
 
-.room-name a {
+.room-name {
   text-decoration: none;
   color: white;
 }
 
 .chat {
-  width: calc( 100vw - 300px );
+  width: calc( 100% - 300px );
 }
 
 .chat-header {
